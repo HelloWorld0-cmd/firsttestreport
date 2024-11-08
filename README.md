@@ -29,7 +29,7 @@ int main()
     return 0;
 }
 ```
-![Image](https://i0.hdslb.com/bfs/new_dyn/4c186d7a1a9cf4a2627b5bb43404a40a3546738243668772.png@480w_266h_1s.avif)
+![Image]([https://i0.hdslb.com/bfs/new_dyn/4c186d7a1a9cf4a2627b5bb43404a40a3546738243668772.png@480w_266h_1s.avif](http://i0.hdslb.com/bfs/new_dyn/4c186d7a1a9cf4a2627b5bb43404a40a3546738243668772.png))
 
 
 > 问题:如果执行 printf("%c'＂,0x7)会得到什么结果?为什么?
